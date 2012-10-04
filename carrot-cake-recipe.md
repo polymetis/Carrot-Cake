@@ -19,5 +19,8 @@
 
 ###Instructions
 
-Mix the basic cake recipe together and then fold carrots into the batter.
+1. Preheat oven to 425F, grease a standard bundt pan
+2. Mix the basic cake recipe together and then fold carrots into the batter.
+3. Pour into prepared pan and bake in preheated oven for approximately 30 minutes, checking after 20 minutes. Remove from oven when a skewer inserted in centre of cake comes out clean.
+4. Allow to cool.
 
